@@ -4,7 +4,7 @@
   "description": "An imaginary movie renting service.",
   "main": "app.js",
   "scripts": {
-    "start": "nodemon app.js",
+    "start": "node app.js",
     "test": "jest --watchAll --verbose --testEnvironment node"
   },
   "author": "Adil Siddiqui",
