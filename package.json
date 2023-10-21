@@ -4,6 +4,7 @@
   "description": "An imaginary movie renting service.",
   "main": "app.js",
   "scripts": {
+    "dev": "nodemon app.js",
     "start": "node app.js",
     "test": "jest --watchAll --verbose --testEnvironment node"
   },
